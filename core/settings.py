@@ -30,7 +30,8 @@ INSTALLED_APPS = [
     'About',
     'Testimonial',
     'Overview',
-    'Price'
+    'Price',
+    'Contact'
 ]
 
 MIDDLEWARE = [
