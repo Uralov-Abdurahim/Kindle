@@ -31,7 +31,8 @@ INSTALLED_APPS = [
     'Testimonial',
     'Overview',
     'Price',
-    'Contact'
+    'Contact',
+    'Home'
 ]
 
 MIDDLEWARE = [

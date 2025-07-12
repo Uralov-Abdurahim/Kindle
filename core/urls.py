@@ -9,7 +9,8 @@ urlpatterns = [
     path('', include('Testimonial.urls')),
     path('', include('Overview.urls')),
     path('', include('Price.urls')),
-    path('', include('Contact.urls'))
+    path('', include('Contact.urls')),
+    path('', include('Home.urls'))
 ]
 
 
